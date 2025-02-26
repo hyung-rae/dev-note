@@ -1,1 +1,1 @@
-# 개발 노트
+# hyung-rae dev note
